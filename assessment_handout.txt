@@ -1,69 +1,85 @@
 Write in one or more topics for each question using the following topics: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class. If you get any error messages, copy and paste up to three of them in the boxes below.
 
-#1 Topic:_____
+#1 Topic:_Variables____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
 
 
 
-#2 Topic: _____
+#2 Topic: _Conditionals (with optional array), variables____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
 
 
 
-#3 Topic: _____
+#3 Topic: __For loops, variables___
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
 
 
 
-#4 Topic: _____
+#4 Topic: __While loops, variables___
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
 
 
 
-#5 Topic: _____
+#5 Topic: _arrays, for loops____
+(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
+
+Error Messages:
+Traceback (most recent call last):
+  File "week4_project.py", line 45, in <module>
+    main()
+  File "week4_project.py", line 6, in main
+    print_backwards()
+  File "week4_project.py", line 42, in print_backwards
+    backward_squad = backward_squad + eachElement
+TypeError: can only concatenate list (not "str") to list
+
+
+
+
+#6 Topic: _functions, variables____
+(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
+
+Error Messages:
+Traceback (most recent call last):
+  File "week4_project.py", line 51, in <module>
+    main()
+  File "week4_project.py", line 7, in main
+    full_name()
+TypeError: full_name() missing 1 required positional argument: 'firstName'
+
+
+
+
+#7 Topic: _Class, array, for loop, function(method)____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
 
 
 
-#6 Topic: _____
+#8 Topic: _Function, variables, conditionals____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
 
 
 
-#7 Topic: _____
+#9 Topic: _Variables, for loops, arrays____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
 
 
 
-#8 Topic: _____
-(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
-Error Messages:
-
-
-
-#9 Topic: _____
-(Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
-
-Error Messages:
-
-
-
-#10 Topic: _____
+#10 Topic: _class, functions(methods), for loops, arrays, variables____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
