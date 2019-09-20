@@ -1,13 +1,13 @@
 def main():
-    user_age()
-    student_check()
-    count_down()
-    correct_answer_loop()
-    print_backwards()
-    full_name("Andrew")
-    my_books()
-    print(money_check())
-    num_list()
+    # user_age()
+    # student_check()
+    # count_down()
+    # correct_answer_loop()
+    # print_backwards()
+    # full_name("Andrew")
+    # my_books()
+    # print(money_check())
+    # num_list()
     my_pets()
 
 
